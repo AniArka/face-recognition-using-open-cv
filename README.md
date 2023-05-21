@@ -9,14 +9,14 @@ This project is a face recognition attendance system that uses OpenCV, NumPy, an
 * face_recognition 
 
 ## Installation
-Clone the repository:
+1 Clone the repository:
 
 git clone https://github.com/AniArka/face-recognition-using-open-cv.git
 
-Navigate to the project directory:
+2 Navigate to the project directory:
 
 cd project
 
-Install the required dependencies:
+3 Install the required dependencies:
 
 pip install opencv-python numpy face-recognition
