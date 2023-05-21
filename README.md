@@ -36,5 +36,5 @@ The 'face_detection.py' file contains a few configuration options that you can m
 'MIN_SIZE': Minimum possible object size. Objects smaller than this size will be ignored.
 
 ## References
-OpenCV documentation: https://docs.opencv.org
+OpenCV documentation: https://docs.opencv.org/4.x/
 Cascade Classifier Training: http://docs.opencv.org/trunk/dc/d88/tutorial_traincascade.html
