@@ -32,7 +32,7 @@ python main.py
 
 3. The webcam feed will open, and faces detected in real-time will be compared against the known faces provided. If a match is found, the person's name will be displayed on the screen.
 
-4. Press the q key to exit the application.
+4. Press the 'q' key to exit the application.
 
 ## Configuration
 No additional configuration is required for this project.
