@@ -22,17 +22,17 @@ cd project
 pip install opencv-python numpy face-recognition
 
 ## Usage
-Open the folder named imageattendance in the project directory.
+1. Open the folder named imageattendance in the project directory.
 
 Place the images of the individuals whose attendance you want to track inside the imageattendance folder. Each image should contain a single face.
 
-Run the application:
+2. Run the application:
 
 python main.py
 
-The webcam feed will open, and faces detected in real-time will be compared against the known faces provided. If a match is found, the person's name will be displayed on the screen.
+3. The webcam feed will open, and faces detected in real-time will be compared against the known faces provided. If a match is found, the person's name will be displayed on the screen.
 
-Press the q key to exit the application.
+4. Press the q key to exit the application.
 
 ## Configuration
 No additional configuration is required for this project.
