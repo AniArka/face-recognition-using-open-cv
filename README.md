@@ -8,5 +8,5 @@ To run this project, you need to have the following:
 Python 3.x: Install Python from the official website (https://www.python.org) or using a package manager like Anaconda (https://www.anaconda.com).
 
 OpenCV: Install OpenCV library using pip:
-(pip install opencv-python)
+print(pip install opencv-python)
 
