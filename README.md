@@ -22,7 +22,7 @@ cd project
 pip install opencv-python numpy face-recognition
 
 ## Usage
-Create a folder named imageattendance in the project directory.
+Open the folder named imageattendance in the project directory.
 
 Place the images of the individuals whose attendance you want to track inside the imageattendance folder. Each image should contain a single face.
 
